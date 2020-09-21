@@ -1,0 +1,12 @@
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.csprojAssemblyReference.cache
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.FormClients.resources
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.FormMain.resources
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.FormRoutes.resources
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.Properties.Resources.resources
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.csproj.GenerateResource.cache
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.csproj.CoreCompileInputs.cache
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirmForm.exe.config
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirmForm.exe
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirmForm.pdb
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.exe
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.pdb
