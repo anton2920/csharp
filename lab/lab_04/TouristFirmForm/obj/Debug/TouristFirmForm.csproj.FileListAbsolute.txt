@@ -10,3 +10,6 @@ C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirmForm.exe
 C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirmForm.pdb
 C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.exe
 C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.pdb
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirm.dll
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\bin\Debug\TouristFirm.pdb
+C:\Users\anton\csharp\lab\lab_04\TouristFirmForm\obj\Debug\TouristFirmForm.csproj.CopyComplete
